@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá eu sou o Igor 👋
+### Sou um profissional de testes e qualidade de software. Veja meu linkedin abaixo:
 
-<!--
-**igorFerreiraBarbosa/igorFerreiraBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferreirabarbosaigor/)
 
-Here are some ideas to get you started:
+### Tecnologias que eu uso no meu cotidiano:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Java
++ Junit
++ Cucumber
++ Bamboo
++ ALM Octane
+
+Sou bastante curioso, gosto de aprender coisas novas e gosto bastante de desafios. 
+
